@@ -1,33 +1,29 @@
 OpenAi CartPole
-===============*****************
+===============
 
 
-.. contents:: **Contents of this document**
-   :depth: 2
-
-
-Installation
+## Installation
 ------------
 
-.. code:: shell
 
     pip install requirement.txt
     or
     pip install tensorflow==1.4.1 gym==0.7.0 matplotlib==2.1.2
 
-..
 
-Run
-===
 
-.. code:: shell
+## Run
+------
+
+
 
     cd cart_pole
     python dqn_agent.py
 
 
-Description
-===========
+
+## Description
+--------------
 
  cart_pole 예제의 goal은 최대한 오랫동안 막대기를 세우고 있는 것입니다.
 
