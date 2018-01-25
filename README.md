@@ -1,5 +1,5 @@
-# OpenAi CartPole
-*****************
+OpenAi CartPole
+===============*****************
 
 
 .. contents:: **Contents of this document**
