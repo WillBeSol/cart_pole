@@ -1,5 +1,5 @@
-Openai_CartPole
-***************
+# OpenAi CartPole
+*****************
 
 
 .. contents:: **Contents of this document**
@@ -7,7 +7,7 @@ Openai_CartPole
 
 
 Installation
-============
+------------
 
 .. code:: shell
 
