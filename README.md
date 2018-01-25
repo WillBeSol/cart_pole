@@ -1,18 +1,27 @@
 # Openai_CartPole
 
+Installation
+=============
 
-#######################
+.. code:: shell
 
-    Openai_CartPole
+    pip install requirement.txt
+    or
+    pip install tensorflow==1.4.1 gym==0.7.0 matplotlib==2.1.2
 
-    : pip install requirement.txt >> 안될시 requirement.txt에 있는 package들 pip로 하나하나 설치
+..
 
-    : run 방법
+Run
+====
+
+.. code:: shell
+
+    cd cart_pole
+    python dqn_agent.py
 
 
-#######################
-
-description :
+Description
+============
 
  cart_pole 예제의 goal은 최대한 오랫동안 막대기를 세우고 있는 것입니다.
 
