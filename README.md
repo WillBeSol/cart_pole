@@ -2,12 +2,19 @@ OpenAi CartPole
 ===============
 
 
+
+
+
 ## Installation
 
 
     pip install requirement.txt
+
     or
+
     pip install tensorflow==1.4.1 gym==0.7.0 matplotlib==2.1.2
+
+
 
 
 
@@ -17,6 +24,8 @@ OpenAi CartPole
 
     cd cart_pole
     python dqn_agent.py
+
+
 
 
 
