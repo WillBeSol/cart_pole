@@ -1,4 +1,5 @@
-# Openai_CartPole
+Openai_CartPole
+***************
 
 
 .. contents:: **Contents of this document**
@@ -6,7 +7,7 @@
 
 
 Installation
-=============
+============
 
 .. code:: shell
 
@@ -17,7 +18,7 @@ Installation
 ..
 
 Run
-====
+===
 
 .. code:: shell
 
@@ -26,7 +27,7 @@ Run
 
 
 Description
-============
+===========
 
  cart_pole 예제의 goal은 최대한 오랫동안 막대기를 세우고 있는 것입니다.
 
