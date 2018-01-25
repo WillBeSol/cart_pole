@@ -3,7 +3,6 @@ OpenAi CartPole
 
 
 ## Installation
-------------
 
 
     pip install requirement.txt
@@ -13,7 +12,6 @@ OpenAi CartPole
 
 
 ## Run
-------
 
 
 
@@ -23,7 +21,6 @@ OpenAi CartPole
 
 
 ## Description
---------------
 
  cart_pole 예제의 goal은 최대한 오랫동안 막대기를 세우고 있는 것입니다.
 
