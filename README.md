@@ -1,8 +1,14 @@
+# Openai_CartPole
+
+
 #######################
 
     Openai_CartPole
 
-    : requirement.txt 에 있는 package 들을 pip로 설치헤야합니다.
+    : pip install requirement.txt >> 안될시 requirement.txt에 있는 package들 pip로 하나하나 설치
+
+    : run 방법
+
 
 #######################
 
