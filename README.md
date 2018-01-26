@@ -4,9 +4,13 @@ OpenAi CartPole
 
 ## Installation
 
-    $ pip install requirement.txt
+    $ cd cart_pole
+    $ python3 -m venv venv
+    $ source venv/bin/activate
+
+    (venv) $ pip install requirement.txt
     or
-    $ pip install tensorflow==1.4.1 gym==0.7.0 matplotlib==2.1.2
+    (venv) $ pip install tensorflow==1.4.1 gym==0.7.0 matplotlib==2.1.2
 
 
 
